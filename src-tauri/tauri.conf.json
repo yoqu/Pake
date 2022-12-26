@@ -1,12 +1,12 @@
 {
   "package": {
-    "productName": "WeRead",
+    "productName": "NasMusic",
     "version": "1.0.0"
   },
   "tauri": {
     "windows": [
       {
-        "url": "https://weread.qq.com/",
+        "url": "http://nas.uyoqu.com:12341/#/music/playlist",
         "transparent": true,
         "fullscreen": false,
         "width": 1200,
